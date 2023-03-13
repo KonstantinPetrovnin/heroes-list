@@ -1,0 +1,43 @@
+{
+  "heroes": [
+    {
+      "id": "bb841ed0-6194-49c6-9118-65a7d47e648c",
+      "name": "qwerty",
+      "descr": "werty",
+      "elem": ""
+    },
+    {
+      "id": "15bfe39b-2d0c-49da-a0d4-c0d265f8bfea",
+      "name": "sdds",
+      "descr": "dssd",
+      "elem": "water"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
